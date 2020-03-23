@@ -1,10 +1,11 @@
 <template>
-  <div class="home"></div>
+  <div>注册页面</div>
 </template>
 
 <script>
 export default {
-  name: "Home",
-  components: {}
+  name: "Register"
 };
 </script>
+
+<style></style>
